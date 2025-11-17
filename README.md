@@ -49,3 +49,32 @@ To use the scripts in this repository, follow these steps:
 For example, to calculate weighted averages for AHS 2021 data, run:
 ```bash
 python ahs21_weighted_average.py
+```
+
+## Requirements 
+
+The scripts in this repository require the following dependencies: 
+
+    Python 3.x
+    pandas library for data manipulation and analysis
+    matplotlib library for data visualization
+    numpy library for numerical computations
+     
+## Installation 
+
+To install the required dependencies, run the following command: 
+```bash
+pip install -r requirements.txt
+``` 
+ 
+## Contributing 
+
+Contributions to this repository are welcome. To contribute, please: 
+
+     Fork the repository.
+     Create a new branch for your changes.
+     Submit a merge request.
+
+## License 
+
+This repository is licensed under the MIT License . 
