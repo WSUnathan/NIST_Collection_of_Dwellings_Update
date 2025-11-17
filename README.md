@@ -1,21 +1,17 @@
 # NIST_Collection_of_Dwellings_Update
 # Collection of Dwelling
-=====================================
 
 ## Overview
-------------
 
 The Collection of Dwelling repository contains a collection of Python scripts for managing and processing dwelling-related data. This repository is designed to provide a centralized location for storing and sharing scripts related to dwelling data.
 
 ## Repository Structure
--------------------------
 
 The repository is structured as follows:
 
 * `scripts/`: This directory contains the Python scripts for managing and processing dwelling data.
 
 ## Scripts
-------------
 
 The following Python scripts are included in the `scripts/` directory:
 
@@ -43,7 +39,6 @@ The following Python scripts are included in the `scripts/` directory:
 * `wap_calc.py`: Calculates WAP (Weatherization Assistance Program) data.
 
 ## Usage
----------
 
 To use the scripts in this repository, follow these steps:
 
