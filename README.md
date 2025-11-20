@@ -59,7 +59,3 @@ Python 3.x
 pandas library for data manipulation and analysis
 matplotlib library for data visualization
 numpy library for numerical computations
-
-## License 
-
-This repository is licensed under the MIT License . 
