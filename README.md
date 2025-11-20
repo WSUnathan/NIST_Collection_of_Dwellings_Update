@@ -59,3 +59,21 @@ Python 3.x
 pandas library for data manipulation and analysis
 matplotlib library for data visualization
 numpy library for numerical computations
+
+## Citation
+
+If you use this code or data in your research, please cite:
+
+Lima, Nathan M. (2024), A Collection of Dwellings to Represent the U.S. Housing Stock (2024 Update) Associated Python Scripts, National Institute of Standards and Technology, https://doi.org/10.18434/mds2-3488
+
+**Related Publications:**
+- Lima NM, Persily AK, Emmerich SJ (2025) A Collection of Dwellings to Represent the U.S. Dwelling Stock: 2024Update. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Technical Note (TN) NIST TN 2329. https://doi.org/10.6028/NIST.TN.2329
+
+## Contributing
+
+This repository is maintained for research reproducibility. For questions, issues, or collaboration inquiries:
+
+**Principal Investigator:** Emmerich, Steven J. Mr. (Fed) <steven.emmerich@nist.gov>
+**Data Analyst:** Nathan Lima  
+**Institution:** National Institute of Standards and Technology (NIST)  
+**Contact:** nathan.lima@nist.gov
